@@ -9,7 +9,7 @@ Coding Weekend Project 2013-02 JavaScript Framework Evaluation
 
 Für mehrschichtige Applikationen (Multitier Enterprise Applications) bestehen neben den Möglichkeiten,
 welche der Java- oder .NET-Stack bietet, eine Vielzahl an JavaScript-Frameworks 
-um das Frontend (Tier/Layer) zu gestalten.
+um den Frontend-Layer (Tier) zu gestalten.
 
 Aktuell ist die mögliche Auswahl an verfügbaren und aktuellen Frameworks, welche auf JavaScript (JS) setzen, 
 in der Tat so hoch, dass die genauen Vor- und Nachteile der einzelnen Lösungen hinsichtlich 
