@@ -7,7 +7,7 @@ Coding Weekend Project 2013-02 JavaScript Framework Evaluation
 
 ### Grundidee
 
-* Evaluierung diverser JavaScript Frameworks durch Realisierung einer äquivalenten Testapplikation
+* Evaluierung ausgewählter JavaScript Frameworks durch Realisierung einer äquivalenten Testapplikation
 * Vergleiche hierzu ähnliches Projekt mit ToDo-App als Referenz: http://addyosmani.github.com/todomvc/
 
 ### Verzeichnis der Projekt-Repos mit umgesetzten Testapplikationen
