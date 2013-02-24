@@ -12,11 +12,11 @@ Aktuell ist die Auswahl an verfügbaren und aktuellen Frameworks, welche auf Jav
 Verfügbarkeit und Aktualität der Projektdokumentation, Einarbeitungszeit, Dauer des Framework-Lifecycle sowie technischer Eleganz bei der Implemtierung, nicht hinreichend dokumentiert ist.
 
 Um eine Entscheidungsbasis über die allgmeine Reife für den Einstatz in industriellen Großprojekten, 
-oder gar die Entscheidung für ein bestimmtes JS Framework zu ermöglichen soll ein Vergleich div. JS Frameworks pragmatisch vollzogen werden.
+oder gar die Entscheidung für ein bestimmtes JS Framework zu ermöglichen soll ein Vergleich div. JS-Frameworks pragmatisch vollzogen werden.
 
 ### Grundidee
 
-* Evaluierung ausgewählter JavaScript Frameworks durch Realisierung einer äquivalenten Testapplikation
+* Evaluierung ausgewählter JavaScript-Frameworks durch Realisierung einer äquivalenten Testapplikation
 * Vergleiche hierzu ähnliches Projekt mit ToDo-App als Referenz: http://addyosmani.github.com/todomvc/
 
 ### Verzeichnis der Projekt-Repos mit umgesetzten Testapplikationen
