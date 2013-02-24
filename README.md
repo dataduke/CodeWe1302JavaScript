@@ -3,13 +3,18 @@
 
 Coding Weekend Project 2013-02 JavaScript Framework Evaluation
 
-## Projektmotivation (Grundidee)
+## Projektmotivation 
+
+### Grundidee
 
 * Evaluierung diverser JavaScript Frameworks durch Realisierung einer äquivalenten Testapplikation
-* Verzeichnis der Projekte mit umgesetzten Testapplikationen:
- * Backbone.js mit Underscore.js und Docco - https://github.com/sebastianfuss/backbone-test
- * JavaScriptMVC mit StealJS, DocumentJS, jQuery und FuncUnit (QUnit, Selenium, Jasmine) - https://github.com/realthargor/javascriptMVCCodingWe
- * AngularJS & AngularUI  mit Bootstrap und jQueryUI - https://github.com/dataduke/CodeWe1302AngularJs
+* Ähnliches Projekt mit ToDo-App als Referenz: http://addyosmani.github.com/todomvc/
+
+### Verzeichnis der Projekte mit umgesetzten Testapplikationen
+
+* Backbone.js mit Underscore.js und Docco - https://github.com/sebastianfuss/backbone-test
+* JavaScriptMVC mit StealJS, DocumentJS, jQuery und FuncUnit (QUnit, Selenium, Jasmine) - https://github.com/realthargor/javascriptMVCCodingWe
+* AngularJS & AngularUI  mit Bootstrap und jQueryUI - https://github.com/dataduke/CodeWe1302AngularJs
 
 ## Grundlagen zum JavaScript-Stack
 
@@ -37,17 +42,13 @@ Unterschiede:
 
 - Patterns: MVC (Model-View-Controller) vs. MVVM (Model-View-ViewModel)
 
-## Evaluierung und Testumfeld
+## Testumfeld
 
-### Ausgewählte JS-Frameworks
+### Geschäftprozess
 
-- AngularJS (http://angularjs.org/,  http://www.youtube.com/user/angularjs) & AngularUI (http://angular-ui.github.com/) __BUILD DONE__ mit Bootstrap, jQueryUI
-- Backbone.js (http://backbonejs.org/) __BUILD DONE__ mit Underscore.js, Docco
-- Ember.js (http://emberjs.com/)
-- Knockout (http://knockoutjs.com/)
-- JavaScriptMVC (http://javascriptmvc.com/) __BUILD DONE__ mit  StealJS, DocumentJS, jQuery, FuncUnit (QUnit, Selenium, Jasmine)
+Kundenerfassung mit Personendaten, Adressdaten und Bestätigung der gemachten Angaben.
 
-### Testapplikation (Referenzimplementierung)
+### Felder der Testapplikation (Referenzimplementierung)
 
 Personendaten (Page):
 
@@ -73,6 +74,20 @@ Ende (Page):
 
 - Danke (Text)
 - Neubestellung (Link zu Personendaten, Loop)
+
+## Features der Testapplikation
+
+siehe Beschreibungen bei - https://github.com/sebastianfuss/backbone-test
+
+## Evaluierung
+
+### Ausgewählte JS-Frameworks
+
+- AngularJS (http://angularjs.org/,  http://www.youtube.com/user/angularjs) & AngularUI (http://angular-ui.github.com/) __BUILD DONE__ mit Bootstrap, jQueryUI
+- Backbone.js (http://backbonejs.org/) __BUILD DONE__ mit Underscore.js, Docco
+- Ember.js (http://emberjs.com/)
+- Knockout (http://knockoutjs.com/)
+- JavaScriptMVC (http://javascriptmvc.com/) __BUILD DONE__ mit  StealJS, DocumentJS, jQuery, FuncUnit (QUnit, Selenium, Jasmine)
 
 ### Evaluierungskriterien
 
@@ -100,7 +115,6 @@ Ende (Page):
 
 ### Sonstiges
 
-- Ähnliches Projekt mit ToDo-App als Referenz: http://addyosmani.github.com/todomvc/
 - JS Editoren/IDEs: 
     - WebStorm (http://www.jetbrains.com/webstorm/) : Kommerzielle IDE
     - NetBeans (http://netbeans.org/) : Open Source IDE
