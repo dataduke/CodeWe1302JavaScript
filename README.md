@@ -47,7 +47,7 @@ Unterschiede:
 - Knockout (http://knockoutjs.com/)
 - JavaScriptMVC (http://javascriptmvc.com/) __BUILD DONE__ mit  StealJS, DocumentJS, jQuery, FuncUnit (QUnit, Selenium, Jasmine)
 
-### Testapplikation (Refernzeimplementierung)
+### Testapplikation (Referenzimplementierung)
 
 Personendaten (Page):
 
