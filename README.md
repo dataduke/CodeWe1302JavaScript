@@ -87,13 +87,13 @@ siehe Beschreibung bei https://github.com/sebastianfuss/backbone-test
 ### Ausgewählte Testkandidaten 
 
 * AngularJS (http://angularjs.org/,  http://www.youtube.com/user/angularjs) & AngularUI (http://angular-ui.github.com/) 
-  - __TESTAPP BUILD DONE__ mit Bootstrap, jQueryUI
+  - __[BUILD DONE]__ TestApp mit Bootstrap, jQueryUI
 * Backbone.js (http://backbonejs.org/) 
-  - __TESTAPP BUILD DONE__ mit Underscore.js, Docco
+  - __[BUILD DONE]__ TestApp mit Underscore.js, Docco
 * Ember.js (http://emberjs.com/)
 * Knockout (http://knockoutjs.com/)
 * JavaScriptMVC (http://javascriptmvc.com/) 
-  - __TESTAPP BUILD DONE__ mit  StealJS, DocumentJS, jQuery, FuncUnit (QUnit, Selenium, Jasmine)
+  - __[BUILD DONE]__ TestApp mit  StealJS, DocumentJS, jQuery, FuncUnit (QUnit, Selenium, Jasmine)
 
 ### Kurzvorstellung und Beschreibungen
 
