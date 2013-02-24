@@ -14,7 +14,7 @@ Coding Weeekend Project 2013-02 JavaScript Framework Evaluation
 
 ### Aufbau des Frontend-Stacks (Layers und Dependencies)
 
-Top-Down-Architekur:
+Top-Down-Architektur:
 
 1. Eigene Applikation (Testapplikation)
 2. JS Framework (Framework zur Evaluierung)
