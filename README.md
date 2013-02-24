@@ -3,6 +3,20 @@
 
 Coding Weekend Project 2013-02 JavaScript Framework Evaluation
 
+## Struktur
+
+* Ausarbeitung für Whitepaper in diesem Repo
+* Entwicklung von Testapplikationen in ausgelagerten Repos (Teilprojekte)
+
+### Verzeichnis der Projekt-Repos mit umgesetzten Testapplikationen
+
+* Backbone.js mit Underscore.js und Docco
+  - https://github.com/sebastianfuss/backbone-test
+* JavaScriptMVC mit StealJS, DocumentJS, jQuery und FuncUnit (QUnit, Selenium, Jasmine)
+  - https://github.com/realthargor/javascriptMVCCodingWe
+* AngularJS & AngularUI  mit Bootstrap und jQueryUI 
+  - https://github.com/dataduke/CodeWe1302AngularJs
+
 ## Einführung
 
 ### Projektmotivation 
@@ -24,15 +38,6 @@ soll ein Vergleich diverser JS-Frameworks pragmatisch vollzogen werden.
 
 * Evaluierung ausgewählter JavaScript-Frameworks durch Realisierung einer äquivalenten Testapplikation
 * Vergleiche hierzu ähnliches Projekt mit ToDo-App als Referenz: http://addyosmani.github.com/todomvc/
-
-### Verzeichnis der Projekt-Repos mit umgesetzten Testapplikationen
-
-* Backbone.js mit Underscore.js und Docco
-  - https://github.com/sebastianfuss/backbone-test
-* JavaScriptMVC mit StealJS, DocumentJS, jQuery und FuncUnit (QUnit, Selenium, Jasmine)
-  - https://github.com/realthargor/javascriptMVCCodingWe
-* AngularJS & AngularUI  mit Bootstrap und jQueryUI 
-  - https://github.com/dataduke/CodeWe1302AngularJs
 
 ## Grundlagen zum JavaScript-Stack
 
