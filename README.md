@@ -13,8 +13,8 @@ um den Frontend-Layer (Tier) zu gestalten.
 
 Aktuell ist die mögliche Auswahl an verfügbaren und aktuellen Frameworks, welche auf JavaScript (JS) setzen, 
 in der Tat so hoch, dass die genauen Vor- und Nachteile der einzelnen Lösungen hinsichtlich 
-Verfügbarkeit und Aktualität der Projektdokumentation, Einarbeitungszeit, Dauer des Framework-Lifecycle 
-sowie deren technischer Eleganz bei der Implementierung, nicht hinreichend bekannt oder dokumentiert vorzufinden ist.
+Verfügbarkeit und Aktualität der Projektdokumentation, Einarbeitungszeit, Dauer und Qualität des Framework-Lifecycles 
+sowie deren technische Eleganz bei der Implementierung, nicht bekannt oder hinreichend dokumentiert vorzufinden ist.
 
 Um eine Entscheidungsbasis über die allgmeine Reife für den Einstatz in industriellen Großprojekten zu etablieren, 
 oder gar die Entscheidung für ein bestimmtes JS Framework zu ermöglichen 
