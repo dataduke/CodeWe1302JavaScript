@@ -3,7 +3,7 @@
 
 Coding Weeekend Project 2013-02 JavaScript Framework Evaluation
 
-## Projektmotivation & Grundidee
+## Projektmotivation (Grundidee)
 
 * Evaluierung diverser JavaScript Frameworks durch Realisierung einer äquivalenten Testapplikation
 * Verzeichnis der Projekte mit umgesetzten Testapplikationen
