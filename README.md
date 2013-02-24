@@ -3,6 +3,13 @@ CodeWe1302JavaScript
 
 Coding Weeekend Project 2013-02 JavaScript Framework Evaluation
 
+## Grundidee
+
+* Evaluierung diverser JavaScript Frameworks durch Realisierung einer äquivalenten Testapplikation:
+ * Backbone.js mit Underscore.js und Docco - https://github.com/sebastianfuss/backbone-test
+ * JavaScriptMVC mit StealJS, DocumentJS, jQuery und FuncUnit (QUnit, Selenium, Jasmine) - https://github.com/realthargor/javascriptMVCCodingWe
+ * AngularJS & AngularUI  mit Bootstrap und jQueryUI - https://github.com/dataduke/CodeWe1302AngularJs
+
 ## References
 
 - Referenzimplementierungen: http://addyosmani.github.com/todomvc/
@@ -18,7 +25,7 @@ Coding Weeekend Project 2013-02 JavaScript Framework Evaluation
 - Books: 
     - JavaScript Patterns (Stoyan Stefanov)
 
-## Aufbau des Frontend-Stacks
+## Allgemeiner Aufbau des Frontend-Stacks
 
 - Eigene Applikation
 - JS Framework
