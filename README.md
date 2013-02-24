@@ -25,7 +25,7 @@ Coding Weeekend Project 2013-02 JavaScript Framework Evaluation
 - Books: 
     - JavaScript Patterns (Stoyan Stefanov)
 
-## Allgemeiner Aufbau des Frontend-Stacks
+## Layer/Aufbau des JS-Frontend-Stacks
 
 - Eigene Applikation
 - JS Framework
@@ -68,7 +68,7 @@ Unterschiede:
 - Knockout (http://knockoutjs.com/)
 - JavaScriptMVC (http://javascriptmvc.com/) __BUILD DONE__ mit  StealJS, DocumentJS, jQuery, FuncUnit (QUnit, Selenium, Jasmine)
 
-## Testapplikation zur Evaluierung
+## Testapplikation zur Evaluierung (Referenz)
 
 Personendaten (Page):
 
