@@ -14,11 +14,13 @@ Coding Weeekend Project 2013-02 JavaScript Framework Evaluation
 
 ### Aufbau des Frontend-Stacks (Layers und Dependencies)
 
-- Eigene Applikation (Testapplikation)
-- JS Framework (Framework zur Evaluierung)
-- jQuery und andere Depedndecies (on Top von Protoype/Utilities)
-- PrototypeJS und/oder andere Utility-Frameworks (Low-Level-Funktionen und Patterns für Objekte)
-- JavaScript
+Top-Down-Architekur:
+
+1. Eigene Applikation (Testapplikation)
+2. JS Framework (Framework zur Evaluierung)
+3. jQuery und andere JS Framework Dependencies (on Top von Protoype/Utilities)
+4. PrototypeJS und/oder andere Utility-Frameworks (Low-Level-Funktionen und Patterns für Objekte)
+5. JavaScript
 
 ### Funktionalitäten von JS-Frameworks
 
