@@ -66,7 +66,7 @@ Adressdaten (Page):
 
 Zusammenfassung (Page):
 
-- Datenwiedergabe (Labels, Ouput Fields)
+- Datenwiedergabe (Labels, Output Fields)
 - Datenbestätigung (Checkbox)
 - Submit (Gemockter REST-Call zum Backend)
 
