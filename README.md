@@ -101,6 +101,14 @@ siehe Beschreibungen bei - https://github.com/sebastianfuss/backbone-test
 - Dokumentation
 - Unit-Tests für Validierung, Pageflow
 
+### Evaluierungsergebnisse
+
+siehe Dokumentation in einzelnen Projekten
+
+## Zusammenfassung und Fazit
+
+TBD
+
 ## Referenzen
 
 ### Unterstützende Frameworks
