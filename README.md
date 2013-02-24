@@ -11,9 +11,9 @@ Coding Weeekend Project 2013-02 JavaScript Framework Evaluation
  * JavaScriptMVC mit StealJS, DocumentJS, jQuery und FuncUnit (QUnit, Selenium, Jasmine) - https://github.com/realthargor/javascriptMVCCodingWe
  * AngularJS & AngularUI  mit Bootstrap und jQueryUI - https://github.com/dataduke/CodeWe1302AngularJs
 
-## Grundlagen zu JavaScript
+## Grundlagen zum JavaScript-Stack
 
-### Aufbau des Frontend-Stacks (Layers und Dependencies)
+### Aufbau des Frontends (Layers und Dependencies)
 
 Top-Down-Architektur:
 
