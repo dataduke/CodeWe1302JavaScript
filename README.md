@@ -7,12 +7,18 @@ Coding Weekend Project 2013-02 JavaScript Framework Evaluation
 
 ### Projektmotivation 
 
-Für mehrschichtige Applikationen (Multitier Enterprise Applications) bestehen neben den Möglichkeiten, welche der Java- oder .NET-Stack bietet, eine Vielzahl an JavaScript-Framework um das Frontend (Tier/Layer) zu gestalten.
-Aktuell ist die Auswahl an verfügbaren und aktuellen Frameworks, welche auf JavaScript (JS) setzen, so hoch, dass die genauen Vor- und Nachteile der einzelnen Lösungen hinsichtlich 
-Verfügbarkeit und Aktualität der Projektdokumentation, Einarbeitungszeit, Dauer des Framework-Lifecycle sowie technischer Eleganz bei der Implemtierung, nicht hinreichend dokumentiert ist.
+Für mehrschichtige Applikationen (Multitier Enterprise Applications) bestehen neben den Möglichkeiten,
+welche der Java- oder .NET-Stack bietet, eine Vielzahl an JavaScript-Frameworks 
+um das Frontend (Tier/Layer) zu gestalten.
 
-Um eine Entscheidungsbasis über die allgmeine Reife für den Einstatz in industriellen Großprojekten, 
-oder gar die Entscheidung für ein bestimmtes JS Framework zu ermöglichen soll ein Vergleich div. JS-Frameworks pragmatisch vollzogen werden.
+Aktuell ist die mögliche Auswahl an verfügbaren und aktuellen Frameworks, welche auf JavaScript (JS) setzen, 
+in der Tat so hoch, dass die genauen Vor- und Nachteile der einzelnen Lösungen hinsichtlich 
+Verfügbarkeit und Aktualität der Projektdokumentation, Einarbeitungszeit, Dauer des Framework-Lifecycle 
+sowie deren technischer Eleganz bei der Implementierung, nicht hinreichend bekannt oder dokumentiert vorzufinden ist.
+
+Um eine Entscheidungsbasis über die allgmeine Reife für den Einstatz in industriellen Großprojekten zu etablieren, 
+oder gar die Entscheidung für ein bestimmtes JS Framework zu ermöglichen 
+soll ein Vergleich diverser JS-Frameworks pragmatisch vollzogen werden.
 
 ### Grundidee
 
