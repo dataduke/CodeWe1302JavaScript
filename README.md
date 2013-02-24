@@ -8,9 +8,9 @@ Coding Weekend Project 2013-02 JavaScript Framework Evaluation
 ### Grundidee
 
 * Evaluierung diverser JavaScript Frameworks durch Realisierung einer äquivalenten Testapplikation
-* Ähnliches Projekt mit ToDo-App als Referenz: http://addyosmani.github.com/todomvc/
+* Vergleiche hierzu ähnliches Projekt mit ToDo-App als Referenz: http://addyosmani.github.com/todomvc/
 
-### Verzeichnis der Projekte mit umgesetzten Testapplikationen
+### Verzeichnis der Projekt-Repos mit umgesetzten Testapplikationen
 
 * Backbone.js mit Underscore.js und Docco
   - https://github.com/sebastianfuss/backbone-test
@@ -125,7 +125,7 @@ TBD
 - jQuery (http://jquery.com/), jQueryUI (http://jqueryui.com/), QUnit (http://qunitjs.com/) : Einige JS Frameworks bauen darauf auf (Dependencies)
 - PrototypeJS (http://prototypejs.org/) : Sammlung von JavaScript-Basisfunktionalitäten; wird in  Kombination mit jQuery und Backbone.js häufig verwendet
 - Bootstrap (http://twitter.github.com/bootstrap/) : Utility-Framework für Layout, HTML, CSS etc. 
-- Underscore.js (http://underscorejs.org/) : Utility-Framework, welches grundlegende Hilfsfunktionen liefert, Vgl. Java Commons API
+- Underscore.js (http://underscorejs.org/) : Utility-Framework, welches grundlegende Hilfsfunktionen liefert (vgl. Java Commons API)
 - Docco (http://jashkenas.github.com/docco/) : Codedokumentation
 - Node.js (http://nodejs.org/) : Event-driven I/O server-side JavaScript environment
 - RequireJS (http://requirejs.org/) : Module and File Loader for JS, verwendet bei einigen JS Frameworks (Dependencies)
