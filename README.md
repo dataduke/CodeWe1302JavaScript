@@ -44,7 +44,7 @@ Unterschiede:
 
 ## Testumfeld
 
-### Geschäftprozess
+### Geschäftsprozess
 
 Kundenerfassung mit Personendaten, Adressdaten und Bestätigung der gemachten Angaben.
 
@@ -100,7 +100,7 @@ siehe Beschreibungen bei - https://github.com/sebastianfuss/backbone-test
 
 ## Referenzen
 
-### Unterstützende Frameworks und Tools
+### Unterstützende Frameworks
 
 - jQuery (http://jquery.com/), jQueryUI (http://jqueryui.com/), QUnit (http://qunitjs.com/) : Einige JS Frameworks bauen darauf auf (Dependencies)
 - PrototypeJS (http://prototypejs.org/) : Sammlung von JavaScript-Basisfunktionalitäten; wird in  Kombination mit jQuery und Backbone.js häufig verwendet
@@ -113,7 +113,7 @@ siehe Beschreibungen bei - https://github.com/sebastianfuss/backbone-test
 - StealJS (http://javascriptmvc.com/docs.html#!steal) : Collection of command line and JS client utilities that make building, packaging, and sharing JS applications
 - FuncUnit (http://javascriptmvc.com/docs.html#!FuncUnit) : Testing of web applications with a simple jQuery-like syntax via integration with Jasmin (behavior-driven development framework), Selenium (capture and replay tool) and PhantomJS (headless WebKit with JavaScript API with support for  DOM handling, CSS selector, JSON, Canvas, and SVG) and automated QUnit tests (unit testing).
 
-### Sonstiges
+### Tools und Literatur
 
 - JS Editoren/IDEs: 
     - WebStorm (http://www.jetbrains.com/webstorm/) : Kommerzielle IDE
