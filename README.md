@@ -16,7 +16,7 @@ Coding Weeekend Project 2013-02 JavaScript Framework Evaluation
 
 - Eigene Applikation (Testapplikation)
 - JS Framework (Framework zur Evaluierung)
-- iQuery und andere Depedndecies (on Top von Protoype/Utilities)
+- jQuery und andere Depedndecies (on Top von Protoype/Utilities)
 - PrototypeJS und/oder andere Utility-Frameworks (Low-Level-Funktionen und Patterns für Objekte)
 - JavaScript
 
