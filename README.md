@@ -17,7 +17,7 @@ Verfügbarkeit und Aktualität der Projektdokumentation, Einarbeitungszeit, Daue
 sowie deren technische Eleganz bei der Implementierung, nicht bekannt oder hinreichend dokumentiert vorzufinden ist.
 
 Um eine Entscheidungsbasis über die allgmeine Reife für den Einstatz in industriellen Großprojekten zu etablieren, 
-oder gar die Entscheidung für ein bestimmtes JS Framework zu ermöglichen 
+oder gar die Entscheidung für eine bestimmte Kombination an JavaScript-Rahmenwerken zu ermöglichen 
 soll ein Vergleich diverser JS-Frameworks pragmatisch vollzogen werden.
 
 ### Grundidee
