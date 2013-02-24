@@ -95,9 +95,9 @@ siehe Beschreibung bei https://github.com/sebastianfuss/backbone-test
 * JavaScriptMVC (http://javascriptmvc.com/) 
   - __TESTAPP BUILD DONE__ mit  StealJS, DocumentJS, jQuery, FuncUnit (QUnit, Selenium, Jasmine)
 
-### Kurzbeschreibungen
+### Kurzvorstellung und Beschreibungen
 
-siehe Dokumentation in einzelnen Projekten
+siehe Dokumentation in einzelnen Projekt-Repos
 
 ## Evaluierung
 
@@ -112,7 +112,7 @@ siehe Dokumentation in einzelnen Projekten
 
 ### Evaluierungsergebnisse
 
-siehe Dokumentation in einzelnen Projekten
+siehe Dokumentation in einzelnen Projekt-Repos
 
 ## Zusammenfassung und Fazit
 
