@@ -75,7 +75,7 @@ Ende (Page):
 - Danke (Text)
 - Neubestellung (Link zu Personendaten, Loop)
 
-## Features der Testapplikation
+### Features der Testapplikation
 
 siehe Beschreibungen bei - https://github.com/sebastianfuss/backbone-test
 
