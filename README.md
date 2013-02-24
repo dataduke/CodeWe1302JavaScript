@@ -10,14 +10,14 @@ Coding Weeekend Project 2013-02 JavaScript Framework Evaluation
  * JavaScriptMVC mit StealJS, DocumentJS, jQuery und FuncUnit (QUnit, Selenium, Jasmine) - https://github.com/realthargor/javascriptMVCCodingWe
  * AngularJS & AngularUI  mit Bootstrap und jQueryUI - https://github.com/dataduke/CodeWe1302AngularJs
 
-## Grundlagen
+## Grundlagen zu JavaScript
 
-### Aufbau des Frontend-Stacks (JS-Layers und Dependencies)
+### Aufbau des Frontend-Stacks (Layers und Dependencies)
 
-- Eigene Applikation
-- JS Framework
-- JQuery (on Top von Protoype)
-- PrototypeJS (Low-Level-Fkts und Patterns für Objekte)
+- Eigene Applikation (Testapplikation)
+- JS Framework (Framework zur Evaluierung)
+- iQuery und andere Depedndecies (on Top von Protoype/Utilities)
+- PrototypeJS und/oder andere Utility-Frameworks (Low-Level-Funktionen und Patterns für Objekte)
 - JavaScript
 
 ### Funktionalitäten von JS-Frameworks
@@ -36,7 +36,7 @@ Unterschiede:
 
 ## Evaluierung und Testumfeld
 
-### Ausgewählte, reine JS-Frameworks zur Evaluierung
+### Ausgewählte JS-Frameworks
 
 - AngularJS (http://angularjs.org/,  http://www.youtube.com/user/angularjs) & AngularUI (http://angular-ui.github.com/) __BUILD DONE__ mit Bootstrap, jQueryUI
 - Backbone.js(http://backbonejs.org/) __BUILD DONE__ mit Underscore.js, Docco
@@ -44,7 +44,7 @@ Unterschiede:
 - Knockout (http://knockoutjs.com/)
 - JavaScriptMVC (http://javascriptmvc.com/) __BUILD DONE__ mit  StealJS, DocumentJS, jQuery, FuncUnit (QUnit, Selenium, Jasmine)
 
-### Testapplikation zur Evaluierung (Referenz)
+### Testapplikation (Refernzeimplementierung)
 
 Personendaten (Page):
 
@@ -71,7 +71,7 @@ Ende (Page):
 - Danke (Text)
 - Neubestellung (Link zu Personendaten, Loop)
 
-### Testkriterien zur Evaluierung
+### Evaluierungskriterien
 
 - Pageflow, Routing
 - Model, Data-Binding
