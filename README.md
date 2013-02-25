@@ -6,8 +6,8 @@ Coding Weekend Project 2013-02 JavaScript Framework Evaluation
  * Allgemeines
  * 1. Einführung
  * 2. Grundlagen zum JavaScript-Stack
- * 3. Testumfeld
- * 4. JavaScript-Framework
+ * 3. JavaScript-Framework
+ * 4. Testumfeld
  * 5. Evaluierung
  * 6. Zusammenfassung und Fazit
  * Referenzen
@@ -76,7 +76,24 @@ Unterschiede:
 
 - Patterns: MVC (Model-View-Controller) vs. MVVM (Model-View-ViewModel)
 
-## 3. Testumfeld
+## 3. JavaScript-Frameworks
+
+### Ausgewählte Testkandidaten 
+
+* AngularJS (http://angularjs.org/,  http://www.youtube.com/user/angularjs) & AngularUI (http://angular-ui.github.com/) 
+  - __[DONE]__ TestApp Build mit Bootstrap, jQueryUI
+* Backbone.js (http://backbonejs.org/) 
+  - __[DONE]__ TestApp Build mit Underscore.js, Docco
+* Ember.js (http://emberjs.com/)
+* Knockout (http://knockoutjs.com/)
+* JavaScriptMVC (http://javascriptmvc.com/) 
+  - __[DONE]__ TestApp Build mit  StealJS, DocumentJS, jQuery, FuncUnit (QUnit, Selenium, Jasmine)
+
+### Kurzvorstellung und Beschreibungen
+
+siehe Dokumentation in einzelnen Projekt-Repos
+
+## 4. Testumfeld
 
 ### Geschäftsprozess
 
@@ -112,23 +129,6 @@ Ende (Page):
 ### Features der Testapplikation
 
 siehe Beschreibung bei https://github.com/sebastianfuss/backbone-test
-
-## 4. JavaScript-Frameworks
-
-### Ausgewählte Testkandidaten 
-
-* AngularJS (http://angularjs.org/,  http://www.youtube.com/user/angularjs) & AngularUI (http://angular-ui.github.com/) 
-  - __[DONE]__ TestApp Build mit Bootstrap, jQueryUI
-* Backbone.js (http://backbonejs.org/) 
-  - __[DONE]__ TestApp Build mit Underscore.js, Docco
-* Ember.js (http://emberjs.com/)
-* Knockout (http://knockoutjs.com/)
-* JavaScriptMVC (http://javascriptmvc.com/) 
-  - __[DONE]__ TestApp Build mit  StealJS, DocumentJS, jQuery, FuncUnit (QUnit, Selenium, Jasmine)
-
-### Kurzvorstellung und Beschreibungen
-
-siehe Dokumentation in einzelnen Projekt-Repos
 
 ## 5. Evaluierung
 
