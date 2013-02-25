@@ -170,6 +170,8 @@ TBD
     - WebStorm (http://www.jetbrains.com/webstorm/) : Kommerzielle IDE
     - NetBeans (http://netbeans.org/) : Open Source IDE
     - Cloud9IDE (https://c9.io/) : Online Editor mit Konsole und Repo-Anbing nach GitHub, BitBucket etc.
+    - Sublime Text (http://www.sublimetext.com/) : Kommerzieller Editor
+    - Vim (http://www.vim.org/) oder Emacs (http://www.gnu.org/software/emacs/) : freie, stark erweiter- & konfiguierbare Editoren
 - JS Web Tools:
     - JSFiddle (http://jsfiddle.net/) : Online Editor with Code Sharing
     - cdnjs (http://cdnjs.com/) : Online hosted JS libraries/frameworks
