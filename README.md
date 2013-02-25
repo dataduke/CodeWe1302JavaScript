@@ -169,7 +169,7 @@ TBD
 - JS Editoren/IDEs: 
     - WebStorm (http://www.jetbrains.com/webstorm/) : Kommerzielle IDE
     - NetBeans (http://netbeans.org/) : Open Source IDE
-    - Cloud9IDE (https://c9.io/) : Online Editor mit Konsole und Repo-Anbing nach GitHub, BitBucket etc.
+    - Cloud9IDE (https://c9.io/) : Online Editor mit Konsole und Repo-Anbindug nach GitHub, BitBucket etc.
     - Sublime Text (http://www.sublimetext.com/) : Kommerzieller Editor
     - Vim (http://www.vim.org/) oder Emacs (http://www.gnu.org/software/emacs/) : freie, stark erweiter- & konfiguierbare Editoren
 - JS Web Tools:
