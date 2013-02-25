@@ -6,7 +6,7 @@ Coding Weekend Project 2013-02 JavaScript Framework Evaluation
  * Allgemeines
  * 1. Einführung
  * 2. Grundlagen zum JavaScript-Stack
- * 3. JavaScript-Framework
+ * 3. JavaScript-Frameworks
  * 4. Testumfeld
  * 5. Evaluierung
  * 6. Zusammenfassung und Fazit
