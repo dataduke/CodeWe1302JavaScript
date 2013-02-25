@@ -3,9 +3,7 @@
 
 Coding Weekend Project 2013-02 JavaScript Framework Evaluation
 
-[TOC] 
-
- * Allgemeins
+ * Allgemeines
  * 1. Einführung
  * 2. Grundlagen zum JavaScript-Stack
  * 3. Testumfeld
