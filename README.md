@@ -3,7 +3,18 @@
 
 Coding Weekend Project 2013-02 JavaScript Framework Evaluation
 
-## Struktur
+ * Allgemeins
+ * 1. Einführung
+ * 2. Grundlagen zum JavaScript-Stack
+ * 3. Testumfeld
+ * 4. JavaScript-Framework
+ * 5. Evaluierung
+ * 6. Zusammenfassung und Fazit
+ * Referenzen
+
+## Allgemeines
+
+### Struktur
 
 * Ausarbeitung für Whitepaper in diesem Repo
 * Entwicklung von Testapplikationen in ausgelagerten Repos (Teilprojekte)
@@ -17,7 +28,7 @@ Coding Weekend Project 2013-02 JavaScript Framework Evaluation
 * AngularJS & AngularUI  mit Bootstrap und jQueryUI 
   - https://github.com/dataduke/CodeWe1302AngularJs
 
-## Einführung
+## 1. Einführung
 
 ### Projektmotivation 
 
@@ -39,7 +50,7 @@ soll ein Vergleich diverser JS-Frameworks pragmatisch vollzogen werden.
 * Evaluierung ausgewählter JavaScript-Frameworks durch Realisierung einer äquivalenten Testapplikation
 * Vergleiche hierzu ähnliches Projekt mit ToDo-App als Referenz: http://addyosmani.github.com/todomvc/
 
-## Grundlagen zum JavaScript-Stack
+## 2. Grundlagen zum JavaScript-Stack
 
 ### Aufbau des Frontends (Layers und Dependencies)
 
@@ -65,7 +76,7 @@ Unterschiede:
 
 - Patterns: MVC (Model-View-Controller) vs. MVVM (Model-View-ViewModel)
 
-## Testumfeld
+## 3. Testumfeld
 
 ### Geschäftsprozess
 
@@ -102,7 +113,7 @@ Ende (Page):
 
 siehe Beschreibung bei https://github.com/sebastianfuss/backbone-test
 
-## JavaScript-Frameworks
+## 4. JavaScript-Frameworks
 
 ### Ausgewählte Testkandidaten 
 
@@ -119,7 +130,7 @@ siehe Beschreibung bei https://github.com/sebastianfuss/backbone-test
 
 siehe Dokumentation in einzelnen Projekt-Repos
 
-## Evaluierung
+## 5. Evaluierung
 
 ### Evaluierungskriterien
 
@@ -134,7 +145,7 @@ siehe Dokumentation in einzelnen Projekt-Repos
 
 siehe Dokumentation in einzelnen Projekt-Repos
 
-## Zusammenfassung und Fazit
+## 6. Zusammenfassung und Fazit
 
 TBD
 
