@@ -21,12 +21,12 @@ Coding Weekend Project 2013-02 JavaScript Framework Evaluation
 
 ### Verzeichnis der Projekt-Repos mit umgesetzten Testapplikationen
 
+* AngularJS & AngularUI  mit Bootstrap und jQueryUI 
+  - https://github.com/dataduke/CodeWe1302AngularJs
 * Backbone.js mit Underscore.js und Docco
   - https://github.com/sebastianfuss/backbone-test
 * JavaScriptMVC mit StealJS, DocumentJS, jQuery und FuncUnit (QUnit, Selenium, Jasmine)
   - https://github.com/realthargor/javascriptMVCCodingWe
-* AngularJS & AngularUI  mit Bootstrap und jQueryUI 
-  - https://github.com/dataduke/CodeWe1302AngularJs
 
 ## 1. Einführung
 
